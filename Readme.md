@@ -24,6 +24,9 @@ In this talk we will see how GraphQL can power React Native AR apps to focus on 
 
 ## **Powering your IoT appliances with serverless real time graphql**
 
+In this talk we will look how you can use hasura.io platform to power your IoT appliances. We will see what are architecture solutions for custom made IoT product as well as for best selling consumer IoT devices.
+
+> tags: IoT, graphql, architecture, serverless
 ---
 
 ## **Architecting scalable serverless architectures with GraphQL api**
