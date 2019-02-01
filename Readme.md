@@ -7,8 +7,7 @@ In this talk we will see how we can use modern javascript stack for writing serv
 > tags: graphql, architecture, serverless
 
 #### *Scheduled Confs:*
-> - Attend my talk @[NDC Porto](https://ndcporto.com/) 2019
-> - Attend my talk @[DevDays EU](https://devdays.lt/) 2019
+> Attend my talk @[NDC Porto](https://ndcporto.com/) 2019
 
 ---
 
@@ -18,7 +17,8 @@ In this talk we will see how GraphQL can power React Native AR apps to focus on 
 > tags: AR, graphql, architecture, serverless
 
 #### *Scheduled Confs:*
-> Attend my talk @[AgentConf](http://agentconf.sh) 2019
+> - Attend my talk @[AgentConf](http://agentconf.sh) 2019
+> - Attend my talk @[DevDays EU](https://devdays.lt/) 2019
 
 ---
 
